@@ -1,0 +1,13 @@
+setup.py
+src/__init__.py
+src/election/__init__.py
+src/election/blockchain.py
+src/election/example.py
+src/election/listnode.py
+src/election/masternode.py
+src/election/matrix.py
+src/election.egg-info/PKG-INFO
+src/election.egg-info/SOURCES.txt
+src/election.egg-info/dependency_links.txt
+src/election.egg-info/requires.txt
+src/election.egg-info/top_level.txt
