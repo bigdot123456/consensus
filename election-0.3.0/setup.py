@@ -6,10 +6,10 @@ from os.path import splitext
 from glob import glob
 
 setup(name='election',
-      version='0.3.0',
+      version='0.3.1',
       description='Matrix Masternodes Election',
-      author='Cao Ao',
-      author_email='caoao1994@163.com',
+      author='lyq',
+      author_email='liyanqiang@163.com',
       url='',
       packages=find_packages('src'),
       package_dir={'': 'src'},
